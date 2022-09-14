@@ -9,8 +9,10 @@ import UIKit
 
 class SignUpController: UIViewController {
 
+    //MARK:- outlets
     @IBOutlet weak var iconTextField: UITextField!
     
+    //MARK:- lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
 

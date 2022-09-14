@@ -13,6 +13,7 @@
 		DA11134928D03DB900FFA2AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA11134728D03DB900FFA2AB /* Main.storyboard */; };
 		DA11134B28D03DBB00FFA2AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA11134A28D03DBB00FFA2AB /* Assets.xcassets */; };
 		DA11134E28D03DBB00FFA2AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA11134C28D03DBB00FFA2AB /* LaunchScreen.storyboard */; };
+		DA682EB128D1F11B00CD023F /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA682EB028D1F11B00CD023F /* UIColor+Extension.swift */; };
 		DAF1FE8228D05DBF004A7872 /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF1FE8128D05DBF004A7872 /* SignUpController.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		DA11134A28D03DBB00FFA2AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA11134D28D03DBB00FFA2AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA11134F28D03DBB00FFA2AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA682EB028D1F11B00CD023F /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
 		DAF1FE8128D05DBF004A7872 /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,6 +68,7 @@
 				DA11134C28D03DBB00FFA2AB /* LaunchScreen.storyboard */,
 				DA11134F28D03DBB00FFA2AB /* Info.plist */,
 				DAF1FE8128D05DBF004A7872 /* SignUpController.swift */,
+				DA682EB028D1F11B00CD023F /* UIColor+Extension.swift */,
 			);
 			path = "Assignment 5";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				DA11134228D03DB900FFA2AB /* AppDelegate.swift in Sources */,
 				DA11134428D03DB900FFA2AB /* SceneDelegate.swift in Sources */,
 				DAF1FE8228D05DBF004A7872 /* SignUpController.swift in Sources */,
+				DA682EB128D1F11B00CD023F /* UIColor+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
